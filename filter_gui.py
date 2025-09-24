@@ -7,7 +7,7 @@ import numpy as np
 class ImageFilterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("✨ Advanced Image Filtering App")
+        self.root.title("✨Image Filtering App")
         self.root.geometry("1200x700")
 
         # Variabel gambar
